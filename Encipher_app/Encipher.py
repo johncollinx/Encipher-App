@@ -6,7 +6,7 @@ from kivy.uix.textinput import TextInput
 from kivy.uix.button import Button
 from time import time
 from kivy.uix.label import Label
-from SimpleAES import encrypt, decrypt
+from AesFiles import encrypt, decrypt
 from kivy.core.window import Window
 
 
